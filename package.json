@@ -1,6 +1,6 @@
 {
   "name": "express-group",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Group express routes and middleware",
   "main": "lib/group.js",
   "scripts": {
