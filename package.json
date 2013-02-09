@@ -1,0 +1,28 @@
+{
+  "name": "express-group",
+  "version": "0.0.0",
+  "description": "Group express routes and middleware",
+  "main": "lib/group.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/damienklinnert/express-group.git"
+  },
+  "keywords": [
+    "express",
+    "route",
+    "middleware",
+    "connect",
+    "group",
+    "function",
+    "array"
+  ],
+  "author": "Damien Klinnert <mail@damienklinnert.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "1.8.x",
+    "should": "1.2.x"
+  }
+}
