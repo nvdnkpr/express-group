@@ -113,3 +113,12 @@ The above example can also be written using arrays:
 ### dump groups
 
 Calling `group()` without parameters will dump all registered groups.
+
+
+Todo
+----
+
+ - [ ] enable autoload of groups
+ - [ ] make `this` point to the same var for each route group
+ - [ ] add example about using `req` for sharing state
+ - [ ] add example on how to structure your webapp
